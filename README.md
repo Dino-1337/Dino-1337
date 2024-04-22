@@ -39,13 +39,13 @@
 
 ##  GitHub Stats:
 
-<a href="https://github.com/Dino-1337/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dino-1337&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450" /></a>
-  <a href="https://github.com/Dino-1337/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dino-1337&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width ="350" /></a>
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dino-1337&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dino-1337&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##  GitHub Trophies Earned: 
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=Dino-1337&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Dino-1337&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4)
 
 
