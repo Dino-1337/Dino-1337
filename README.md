@@ -1,12 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Priyanshu Dash</h1>
-<h3 align="center">Flutter and Data Enthusiast</h3>
+<h3 align="center">AI and Data Enthusiast</h3>
 <img align="right" alt="Me Working || You Help" width="400" src="- Find & Share on GIPHY.gif">
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Din0-1337&label=Profile%20Views&color=12&icon=5&pretty=false" /> 
-</a>  
 
 
 <!-- ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />  -->
