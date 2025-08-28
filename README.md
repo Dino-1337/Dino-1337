@@ -34,7 +34,7 @@
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-##  GitHub Stats:
+<!-- ##  GitHub Stats:
 
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dino-1337&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dino-1337&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,6 +43,6 @@
 ##  GitHub Trophies Earned: 
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=Dino-1337&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Dino-1337&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4) -->
 
 
