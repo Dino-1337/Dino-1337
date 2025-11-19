@@ -69,9 +69,20 @@
 ### 📄 RAG-Based Document Chatbot
 Full-stack Retrieval-Augmented Generation system with **LangChain, ChromaDB & MiniLM embeddings**. Features intelligent Q&A over multiple document formats with contextual LLM responses.
 
-**Tech:** LangChain • ChromaDB • React • Flask
+**Tech:** Python • ChromaDB • React • Flask • Render
 
 </td>
+<td width="50%">
+
+### 🤖 KAIRO – Autonomous Project Manager *(Work in Progress)*
+AI-powered project management system that **decomposes tasks**, matches them with **employees based on skill sets**, and **assigns tasks automatically through Slack**.  
+
+**Tech:** React • Flask • OpenAI API • Slack API • Multi-Agent Architecture
+
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🛡 Real-Time PPE Detection & Face Recognition
@@ -80,18 +91,12 @@ Safety monitoring system using **YOLOv11, DeepFace & MediaPipe** for PPE detecti
 **Tech:** YOLOv11 • DeepFace • MediaPipe • Flask
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 💳 Credit Card Fraud Detection
 7-layer denoising autoencoder for anomaly detection with SMOTE oversampling, feature engineering, and threshold calibration.
 
 **Tech:** TensorFlow • Scikit-Learn • SMOTE
-
-</td>
-<td width="50%">
-
 
 </td>
 </tr>
@@ -106,15 +111,13 @@ Safety monitoring system using **YOLOv11, DeepFace & MediaPipe** for PPE detecti
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dino-1337&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dino-1337&theme=tokyonight" alt="GitHub Streak"/>
+<p align="center" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dino-1337&theme=tokyonight" />
 </p>
+
 
 ---
 
-
-
-
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dino-1337&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p> -->
+</p>
